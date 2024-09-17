@@ -3,7 +3,9 @@
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
-This repository contains a compact design for Todo Tree extension in Visual Studio Code. This configuration is designed to create a todo list that is easy to read and efficient. It uses a simple and clean design with a focus on readability.
+Compact design for Todo Tree extension in Visual Studio Code. Designed to create a todo list that is easy to read and efficient. It uses a simple and clean design with a focus on readability.
+
+![Todo Compact Design example](example.png)
 
 
 ## Tags
