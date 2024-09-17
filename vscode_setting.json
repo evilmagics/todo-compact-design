@@ -1,0 +1,114 @@
+{
+  "todo-tree.general.tags": [
+    "[ ]",
+    "[#]",
+    "[X]",
+    "[!]",
+    "[*]",
+    "[?]",
+    "[T]",
+    "[~]",
+    "[+]"
+  ],
+  "todo-tree.highlights.customHighlight": {
+    "[ ]": {
+      "icon": "issue-draft",
+      "type": "whole-line",
+      "foreground": "#0045f2",
+      "background": "#FFFFFF",
+      "iconColour": "#FFFFFF",
+      "borderRadius": "0px",
+      "rulerOpacity": 0.9,
+      "opacity": 0.9,
+      "gutterIcon": true
+    },
+    "[#]": {
+      "icon": "zap",
+      "type": "whole-line",
+      "foreground": "#0045f2",
+      "background": "#ffb700",
+      "iconColour": "#ffb700",
+      "borderRadius": "0px",
+      "rulerOpacity": 0.9,
+      "opacity": 0.9,
+      "gutterIcon": true
+    },
+    "[X]": {
+      "icon": "x-circle",
+      "type": "whole-line",
+      "foreground": "#ffffff",
+      "background": "#c40d00",
+      "iconColour": "#c40d00",
+      "borderRadius": "0px",
+      "rulerOpacity": 0.9,
+      "opacity": 0.9,
+      "gutterIcon": true
+    },
+    "[!]": {
+      "icon": "bell",
+      "type": "whole-line",
+      "foreground": "#2d2e2f",
+      "background": "#ffff40",
+      "iconColour": "#ffff00",
+      "borderRadius": "0px",
+      "rulerOpacity": 0.85,
+      "opacity": 0.85,
+      "gutterIcon": true
+    },
+    "[*]": {
+      "icon": "alert",
+      "type": "whole-line",
+      "foreground": "#FFFFFF",
+      "background": "#ffb700",
+      "iconColour": "#ffb700",
+      "borderRadius": "0px",
+      "rulerOpacity": 0.85,
+      "opacity": 0.85,
+      "gutterIcon": true
+    },
+    "[?]": {
+      "icon": "unverified",
+      "type": "whole-line",
+      "foreground": "#FFFFFF",
+      "background": "#03bdeb",
+      "iconColour": "#03bdeb",
+      "borderRadius": "0px",
+      "rulerOpacity": 0.85,
+      "opacity": 0.85,
+      "gutterIcon": true
+    },
+    "[T]": {
+      "icon": "shield",
+      "type": "whole-line",
+      "foreground": "#FFFFFF",
+      "background": "#0358eb",
+      "iconColour": "#0358eb",
+      "borderRadius": "0px",
+      "rulerOpacity": 0.85,
+      "opacity": 0.85,
+      "gutterIcon": true
+    },
+    "[~]": {
+      "icon": "repo",
+      "type": "whole-line",
+      "foreground": "#FFFFFF",
+      "background": "#85d800",
+      "iconColour": "#85d800",
+      "borderRadius": "0px",
+      "rulerOpacity": 0.85,
+      "opacity": 0.85,
+      "gutterIcon": true
+    },
+    "[+]": {
+      "icon": "verified",
+      "type": "whole-line",
+      "foreground": "#FFFFFF",
+      "background": "#21b83c",
+      "iconColour": "#21b83c",
+      "borderRadius": "0px",
+      "rulerOpacity": 0.85,
+      "opacity": 0.85,
+      "gutterIcon": true
+    }
+  }
+}
